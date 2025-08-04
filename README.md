@@ -2,6 +2,8 @@
 
 PathfinderAI is an intelligent AI-powered assistant that helps learners build personalized learning paths aligned with their career goals, interests, and current skill levels. Built on IBM Watsonx.ai and powered by Retrieval-Augmented Generation (RAG), it dynamically adapts recommendations as users progress—acting like a smart, evolving personal mentor.
 
+
+![AI Overview](ai.png)
 ---
 
 ## 🧩 Problem Statement
