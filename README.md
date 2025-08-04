@@ -144,4 +144,4 @@ Below are sample screenshots from the PathfinderAI setup and deployment process:
 
 [LinkedIn – Vedant Swami](https://www.linkedin.com/in/vedant-swami/)
 
-Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Vedant Swami**
+Created during the IBM SkillsBuild for Academia Internship 2025 by Vedant Swami, with a vision to make learning more personalized and impactful.
