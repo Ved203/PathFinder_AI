@@ -96,10 +96,25 @@ Without personalized guidance, learners often feel lost and unmotivated, leading
 
 - 🔹 Setting up
  ![Setup](setup.png)
-- 🔹 Course Roadmap Output  
-- 🔹 Agent Settings and Configuration  
-- 🔹 Off-topic Query Handling  
-- 🔹 Deployment Flow in Watsonx  
+
+- 🔹 Agent Instructions
+  ![Setup](aget_instructions.png)
+
+- 🔹 Quick Start Questions
+    ![Setup](quick_start_questions.png)
+  
+- 🔹Testing
+   ![Setup](tool_testing.png)
+  
+- 🔹 Deployment & Preview Flow in Watsonx
+ ![Setup](deployed.png)
+
+- 🔹 API Reference after Deployment
+ ![Setup](links.png)
+
+- 🔹 Resource list
+
+
 
 
 
@@ -126,4 +141,12 @@ Without personalized guidance, learners often feel lost and unmotivated, leading
 - [edX](https://www.edx.org)  
 
 ---
+---
+
+## 🔗 Connect with Me
+
+[LinkedIn – Vedant Swami](https://www.linkedin.com/in/vedant-swami/)
+
+Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Vedant Swami**
+
 
