@@ -1,9 +1,10 @@
-#  🔍 Agentic AI for Personalized Course Pathways - PathfinderAI
+# 🔍 Agentic AI for Personalized Course Pathways – PathfinderAI
 
-PathfinderAI is an intelligent AI-powered assistant that helps learners build personalized learning paths aligned with their career goals, interests, and current skill levels. Built on IBM Watsonx.ai and powered by Retrieval-Augmented Generation (RAG), it dynamically adapts recommendations as users progress—acting like a smart, evolving personal mentor.
-
+PathfinderAI is an intelligent AI-powered assistant that helps learners build personalized learning paths aligned with their career goals, interests, and current skill levels.  
+Built on IBM Watsonx.ai and powered by Retrieval-Augmented Generation (RAG), it dynamically adapts recommendations as users progress—acting like a smart, evolving personal mentor.
 
 ![AI Overview](ai.png)
+
 ---
 
 ## 🧩 Problem Statement
@@ -91,33 +92,30 @@ Without personalized guidance, learners often feel lost and unmotivated, leading
 
 ---
 
-
 ## 🖼️ Screenshots
 
-- 🔹 Setting up
- ![Setup](setup.png)
+Below are sample screenshots from the PathfinderAI setup and deployment process:
 
-- 🔹 Agent Instructions
-  ![Setup](aget_instructions.png)
+### 🔹 1. Setup Interface  
+![Setup](setup.png)
 
-- 🔹 Quick Start Questions
-    ![Setup](quick_start_questions.png)
-  
-- 🔹Testing
-   ![Setup](tool_testing.png)
-  
-- 🔹 Deployment & Preview Flow in Watsonx
- ![Setup](deployed.png)
+### 🔹 2. Agent Instructions Panel  
+![Agent Instructions](aget_instructions.png)
 
-- 🔹 API Reference after Deployment
- ![Setup](links.png)
+### 🔹 3. Quick Start Questions Panel  
+![Quick Start](quick_start_questions.png)
 
-- 🔹 Resource list
+### 🔹 4. Tool Usage and Testing  
+![Testing](tool_testing.png)
 
+### 🔹 5. Deployment & Preview Flow in Watsonx  
+![Deployment](deployed.png)
 
+### 🔹 6. API References After Deployment  
+![API Reference](links.png)
 
-
-
+### 🔹 7. Uploaded Resources List  
+ ![Resources](resource_list.png)
 
 ---
 
@@ -141,12 +139,9 @@ Without personalized guidance, learners often feel lost and unmotivated, leading
 - [edX](https://www.edx.org)  
 
 ---
----
 
 ## 🔗 Connect with Me
 
 [LinkedIn – Vedant Swami](https://www.linkedin.com/in/vedant-swami/)
 
 Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Vedant Swami**
-
-
