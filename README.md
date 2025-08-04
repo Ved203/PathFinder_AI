@@ -91,29 +91,18 @@ Without personalized guidance, learners often feel lost and unmotivated, leading
 
 ---
 
-## 📌 How to Deploy on IBM Cloud
-
-1. Sign in to [IBM Cloud Lite](https://cloud.ibm.com)  
-2. Open Watsonx.ai Studio  
-3. Create a new AI agent project  
-4. Upload curated learning content (PDFs, notes, syllabus, etc.)  
-5. Create and configure a Vector Index  
-6. Restrict topic scope to learning/career guidance only  
-7. Test using the preview panel  
-8. Deploy using web snippet, Streamlit app, or integration in a mobile/web frontend  
-
----
 
 ## 🖼️ Screenshots
 
-- 🔹 Personalized Chat Interface  
+- 🔹 Setting up
+ ![Setup](setup.png)
 - 🔹 Course Roadmap Output  
 - 🔹 Agent Settings and Configuration  
 - 🔹 Off-topic Query Handling  
 - 🔹 Deployment Flow in Watsonx  
 
-> _You can embed screenshots like:_  
-> `![Roadmap Output](./images/roadmap_output.png)`
+
+
 
 ---
 
