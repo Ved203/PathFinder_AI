@@ -1,7 +1,7 @@
 # PathFinder_AI
 Aims to develop an intelligent virtual assistant that enhances personalized learning and career readiness through adaptive skill-based roadmaps and guided course recommendations.
 
-(ibm_project/ai_photo.png)
+![AI Photo](ibm_project/ai_photo.png)
 
 # PATHFINDERAI 🎯  
 An AI-powered agent built using IBM Watsonx.ai to provide **personalized learning pathways** based on students' interests, goals, and current skills. It leverages Retrieval-Augmented Generation (RAG) and IBM Cloud services to guide learners toward meaningful careers with confidence.
